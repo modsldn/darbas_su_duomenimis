@@ -1,0 +1,54 @@
+1. Parodykite darbuotoju struktura, t.y. kurie darbuotojai atsiskaito kuriam vadovui (uzklausa turi rodyti vardus ir pavardes, kurie sudeti is atskiru stulpeliu)
+
+SELECT 
+    CONCAT(m.lastName, ', ', m.firstName) AS Manager,
+    CONCAT(e.lastName, ', ', e.firstName) AS 'Direct report'
+FROM
+    employees e
+INNER JOIN employees m ON 
+    m.employeeNumber = e.reportsTo
+ORDER BY 
+    Manager;
+
+2. Isvardinkite klientus, kurie yra is to pacio miesto
+
+SELECT 
+    c1.city, 
+    c1.customerName, 
+    c2.customerName
+FROM
+    customers c1
+INNER JOIN customers c2 ON 
+    c1.city = c2.city
+    AND c1.customername > c2.customerName
+
+-- Subquery as table --
+1. Raskite klientus, kurie uzsakymuose nurode komentarus, bet uzsakymai nebuvo issiusti.
+
+Užklausos:
+* Kas turi daugiausia pavaldinių?
+
+select concat(e2.firstName," ", e2.lastName) as full_name, count(e.employeeNumber) as pavaldiniai from employees e
+left join employees e2 on e.reportsTo = e2.employeeNumber
+group by e.reportsTo
+having pavaldiniai = (select count(e.employeeNumber) as pavaldiniai from employees e
+left join employees e2 on e.reportsTo = e2.employeeNumber
+group by e.reportsTo
+order by pavaldiniai desc limit 1)
+order by pavaldiniai desc;
+
+* Kuris užsakymas turi daugiausia prekių?
+* Raskite darbuotoja, turinti daugiausia klientu
+* Ar visi darbuotojai turi klientu? (jei taip, grazinkite tik tuos, kurie neturi)
+
+select c.salesRepEmployeeNumber, concat(e.firstName," ", e.lastName) as vardas_pavarde, count(c.customerNumber) as klientai from customers c
+left join employees e on c.salesRepEmployeeNumber = e.employeeNumber
+where c.salesRepEmployeeNumber is not null
+group by c.salesRepEmployeeNumber
+order by klientai desc
+limit 1;
+
+* Raskite uzsakymus klientu, kuriu kredito limitas yra daugiau nei 100000?
+* Kokio miesto ofise daugiausia uzsakymu padaroma?
+* Kokio tipo produktu nupirkta maziausiai?
+* Kiek apmokejimu gauta is Niujorko klientu 2005 metais?

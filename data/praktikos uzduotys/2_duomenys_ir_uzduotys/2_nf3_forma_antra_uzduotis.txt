@@ -1,0 +1,94 @@
+
+1. Susikuriame duomenu baze ir lenteles
+
+create table automobiliai (
+marke varchar(100),
+modelis varchar(100),
+kuro_tipas enum('Dyzelinas', 'Benzinas', 'Dujos', 'Elektra'),
+kebulas enum('SUV', 'Sedanas', 'Universalas', 'Hecbekas', 'Kabrioletas'),
+gamybos_metai year,
+transmisija enum('mechanine', 'automatine'),
+duru_skaicius int,
+galingumas int,
+turis float(3,1),
+rida int,
+kaina int,
+savikaina int,
+pirkejas varchar(300),
+pirkejo_adresas varchar(300),
+pirkejo_telefonas varchar(12),
+saugojimo_lokacija varchar(255),
+pardavimo_data date
+);
+
+
+ALTER TABLE automobiliai ADD COLUMN auto_id INT UNSIGNED PRIMARY KEY AUTO_INCREMENT;
+ALTER TABLE automobiliai CHANGE COLUMN saugojimo_lokacija saugojimo_miestas VARCHAR(50);
+ALTER TABLE automobiliai ADD COLUMN saugojimo_adresas VARCHAR(100) AFTER saugojimo_miestas;
+
+
+create table pirkejas (
+id int unsigned auto_increment primary key,
+pirkejas varchar(255),
+adresas varchar(255),
+telefonas varchar(12)
+);
+
+alter table automobiliai ADD COLUMN pirkejas_id INT unsigned ;
+
+alter table automobiliai add constraint FK_pirkejas_id foreign key (pirkejas_id) references pirkejas(id);
+
+alter table automobiliai drop column pirkejas, drop column pirkejo_adresas, drop column pirkejo_telefonas;
+
+create table kuras(
+kuras_id int unsigned primary key auto_increment,
+kuro_tipas enum ('Dyzelinas', 'Benzinas', 'Dujos', 'Elektra')
+);
+
+alter table automobiliai drop column kuro_tipas;
+alter table automobiliai add column kuras_id int unsigned;
+alter table automobiliai add constraint fk_kuras_id foreign key (kuras_id) references kuras (kuras_id);
+
+create table saugojimo_vieta(
+saugojimo_id int unsigned primary key auto_increment,
+saugojimo_miestas varchar (50),
+saugojimo_adresas varchar (100)
+);
+
+alter table automobiliai drop column saugojimo_miestas, drop column saugojimo_adresas;
+alter table automobiliai add column saugojimo_id int unsigned;
+alter table automobiliai add constraint fk_saugojimo_id foreign key (saugojimo_id) references saugojimo_vieta (saugojimo_id);
+
+
+create table kebulas(
+kebulas enum('SUV','Sedanas','Universalas','Kabrioletas','Hecbekas') primary key,
+duru_skaicius int
+);
+alter table automobiliai drop column duru_skaicius;
+alter table automobiliai add constraint fk_kebulas foreign key (kebulas) references kebulas(kebulas);
+
+create table galingumas(
+galingumas int primary key,
+turis float(2,1)
+);
+
+alter table automobiliai drop column turis;
+alter table automobiliai add constraint fk_galingumas foreign key (galingumas) references galingumas(galingumas);
+
+alter table pirkejas modify telefonas varchar(200) 
+INSERT INTO kuras (kuras_id, kuro_tipas) values (1, 'Dyzelinas'), (2, 'Benzinas'), (3, 'Dujos'), (4, 'Elektra')
+
+2. Isidedame duomenis (pagal failu pavadinimus)
+
+3. queriname
+
+* SELECT
+* WHERE
+* DISTINCT
+* IN, AND, OR
+* BETWEEN
+* LIKE
+* ORDER BY
+* COUNT
+* NOT
+

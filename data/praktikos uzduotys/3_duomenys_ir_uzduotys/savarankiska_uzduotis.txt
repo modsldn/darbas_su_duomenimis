@@ -1,0 +1,27 @@
+CREATE TABLE uzsakymai
+(
+Kliento_id INT,
+Uzsakymo_id	VARCHAR(255),
+Siuntimo_miestas VARCHAR(255),
+Suma INT
+);
+
+INSERT INTO uzsakymai (Kliento_id, Uzsakymo_id, Siuntimo_miestas, Suma) VALUES
+(1001,'Nr14598','Vilnius',45),
+(1001,'Nr55496','Kaunas',54),
+(1001,'Nr78932','Kaunas',68),
+(1001,'Nr55589','Kaunas',111),
+(2002,'Nr54897','Klaipeda',222),
+(3003,'Nr87561','Vilnius',657),
+(3003,'Nr89746','Vilnius',78),
+(4004,'Nr26589','Kaunas',35);
+
+
+Atraskite klientus, kurie gavo siuntinius ir i Kauna ir i Vilniu.
+
+Atsakymas:
+
+SELECT	Kliento_id, Uzsakymo_id, Siuntimo_miestas, Suma
+FROM	uzsakymai
+WHERE	Siuntimo_miestas = 'Kaunas' AND
+		CustomerID IN (SELECT b.Kliento_id FROM uzsakymai b where Siuntimo_miestas = 'Vilnius');

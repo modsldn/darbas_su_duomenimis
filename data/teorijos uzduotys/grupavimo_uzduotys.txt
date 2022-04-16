@@ -1,0 +1,10 @@
+1. Raskite top 10 populiariausių filmų. 
+2. Kiek klientų aptarnavo kiekvienas pardavėjas?
+3. Kiek skirtingų filmų išnuomojo kiekvienas pardavėjas?
+4. Kiek kiekvienoje šalyje yra klienų? 
+5. Keliose skirtingose kategorijose suvaidino kiekvienas aktorius? 
+6. Keliuose skirtingus reitingus turinčiuose filmuose suvaidino kiekvienas aktorius? 
+7. Kurio reitingo filmai surinko daugiausiai pajamų? 
+8. Kurio aktoriaus filmai surinko daugiausiai pajamų? 
+
+

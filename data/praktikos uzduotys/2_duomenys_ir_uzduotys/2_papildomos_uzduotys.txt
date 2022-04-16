@@ -1,0 +1,9 @@
+1. Sukurkite užklausą, kuri grąžintų tik dešinę pusę rezultatų.
+Kairė pusė - automobiliai lentelė, dešinė - saugojimo_adresai
+
+2. Raskite vidutinę filmų trukmę pagal kategoriją (sakila duomenų bazė
+
+3. Kodėl užklausos rezultatas yra tusčia lentelė?
+select * from film natural join inventory;
+
+4. Raskite top 10 populiariausius aktorių vardus

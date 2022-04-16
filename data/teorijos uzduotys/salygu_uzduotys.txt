@@ -1,0 +1,5 @@
+1. Sugrupuokite aktorius pagal populiarumą. Vaidino 1-5 filmuose, C lygio žvaigždė, 
+6-15, B lygio žvaigždė, 16 ir daugiau, A lygio žvaigždė.
+
+2. Sugrupuokite filmus pagal pelningumą. Grupes sudarykite pagal kvartilius.
+3. Suskaičiuokite, kada vidutiniškai daugiau nuomojamasi filmų, savaitgaliais ar darbo dienomis. 

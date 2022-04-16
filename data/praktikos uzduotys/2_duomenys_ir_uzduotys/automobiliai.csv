@@ -1,0 +1,102 @@
+marke,modelis,kebulas,gamybos_metai,transmisija,galingumas,rida,kaina,savikaina,pardavimo_data,pirkejas_id,kuras_id,saugojimo_id
+Mercedes-Benz,CL-Class,SUV,2014,mechanine,120,209131,74278,76426,2019-08-26,91,3,15
+Toyota,Sienna,universalas,2006,mechanine,127,40138,31634,63243,2018-04-10,70,4,2
+Nissan,TITAN XD Crew Cab,hecbekas,2017,automatine,139,352610,15021,40619,2019-12-25,42,3,11
+Audi,S4,kabrioletas,2019,mechanine,146,172753,30635,22281,2019-10-31,16,4,7
+Lexus,IS,universalas,2003,automatine,146,293168,95625,64184,2019-06-28,67,4,7
+Bentley,Continental,kabrioletas,2009,mechanine,112,386789,32315,90806,2018-07-25,69,1,2
+Bentley,Arnage,SUV,2009,automatine,127,125318,25277,20386,2018-04-10,39,4,7
+Mercedes-Benz,S-Class,kabrioletas,2015,automatine,128,85936,58253,38163,2018-08-31,69,4,10
+GMC,Savana 1500 Passenger,sedanas,2007,automatine,91,132388,12837,46548,2019-09-01,74,2,11
+Chevrolet,Express 1500 Passenger,universalas,2007,automatine,106,263848,46724,81028,2019-06-12,37,2,12
+Lexus,LS,kabrioletas,2017,mechanine,127,370258,35359,50558,2019-11-21,76,2,15
+Cadillac,Escalade EXT,SUV,2008,mechanine,117,351318,80238,27676,2018-10-05,49,4,12
+Mitsubishi,Mighty Max Regular Cab,universalas,1992,automatine,91,228190,27151,45232,2019-10-05,89,4,3
+Ford,Explorer,universalas,2020,mechanine,117,370401,43679,11426,2018-05-03,16,2,7
+Chrysler,Crossfire,universalas,2004,mechanine,108,255574,56847,37087,2018-02-28,59,1,14
+Chevrolet,Silverado 3500 Extended Cab,sedanas,2002,mechanine,117,184490,15231,78545,2019-07-12,5,3,15
+Jeep,Grand Cherokee,kabrioletas,2015,automatine,139,42638,28106,63745,2019-01-10,19,2,8
+Toyota,Tacoma Regular Cab,kabrioletas,2001,automatine,80,61905,21385,51413,2018-12-15,22,1,6
+Nissan,Frontier Crew Cab,sedanas,2007,automatine,146,115206,88510,42862,2018-03-08,37,2,13
+Mercedes-Benz,GLS,universalas,2018,automatine,117,60826,80843,38250,2019-09-05,4,3,14
+MINI,Clubman,SUV,2014,automatine,112,285942,39874,46234,2018-01-05,28,1,12
+GMC,Sierra 1500 Regular Cab,SUV,2005,automatine,120,239427,36223,40062,2019-02-15,49,1,9
+Ford,F250 Super Duty Super Cab,hecbekas,2006,automatine,146,58474,12965,81674,2018-12-21,41,2,3
+Chevrolet,S10 Regular Cab,universalas,1999,automatine,116,319275,70346,47898,2018-01-23,18,3,13
+Bentley,Brooklands,kabrioletas,2009,mechanine,128,358049,88394,78490,2019-10-02,29,2,10
+Chevrolet,Express 1500 Cargo,universalas,2002,automatine,120,97885,11586,69209,2018-06-27,34,2,7
+Acura,RDX,sedanas,2019,mechanine,112,349280,14445,31579,2018-07-31,62,3,8
+Buick,Skylark,universalas,1996,mechanine,81,125292,88519,88486,2018-09-16,15,3,14
+Chevrolet,Corvette,sedanas,2005,mechanine,112,181114,15642,85558,2019-05-26,33,3,2
+Ford,Ranger Super Cab,hecbekas,1999,mechanine,80,327698,28601,57385,2019-11-17,88,4,6
+Ford,F250 Super Duty Crew Cab,universalas,2016,automatine,120,234368,72446,60074,2019-08-14,38,3,5
+Chrysler,Town & Country,hecbekas,1997,automatine,127,296728,25631,46269,2019-10-22,9,1,14
+BMW,6 Series,sedanas,2012,automatine,116,221295,94305,24743,2018-09-03,56,3,1
+Honda,Pilot,sedanas,2017,automatine,111,148179,20339,15621,2018-08-09,39,1,1
+Mercedes-Benz,S-Class,sedanas,2000,mechanine,106,224864,74519,86700,2019-07-24,1,1,13
+Subaru,Impreza,sedanas,1993,automatine,128,353260,21141,69182,2019-03-05,35,4,10
+Ford,F150 Super Cab,hecbekas,2007,automatine,111,197249,97812,44126,2019-02-18,10,1,5
+Mercury,Marauder,sedanas,2003,mechanine,146,322786,19833,41322,2018-12-03,63,2,14
+Mercedes-Benz,CL-Class,kabrioletas,2004,mechanine,91,197825,74861,12498,2019-09-18,89,2,5
+Toyota,Tundra Double Cab,sedanas,2019,automatine,116,398793,81694,86571,2018-10-06,86,2,4
+Ford,Transit 250 Van,hecbekas,2018,mechanine,80,245527,81417,81838,2018-06-15,83,2,14
+Lexus,LX,kabrioletas,2007,mechanine,91,234161,31301,71499,2019-07-07,6,3,7
+Ford,Econoline E350 Super Duty Cargo,sedanas,2000,automatine,146,293621,36069,40649,2019-08-31,14,2,5
+Mercedes-Benz,G-Class,sedanas,2012,mechanine,127,156676,30039,70837,2018-01-20,80,3,14
+Dodge,Spirit,SUV,1992,mechanine,80,269754,39278,61820,2019-11-29,80,4,11
+GMC,Safari Cargo,sedanas,1999,mechanine,108,69886,35509,47425,2019-02-10,94,3,9
+Chrysler,Concorde,universalas,1993,mechanine,91,63997,29833,93173,2018-02-10,16,4,10
+Toyota,Echo,sedanas,2003,mechanine,116,178189,79471,81751,2019-11-22,34,1,11
+Jaguar,XK,sedanas,2012,automatine,139,331535,76178,68731,2019-04-30,86,2,13
+Chevrolet,Impala,SUV,2008,mechanine,106,299650,75576,55893,2018-06-06,100,4,14
+Chevrolet,Express 3500 Cargo,SUV,2019,mechanine,146,280413,33074,17558,2018-03-15,36,4,8
+Kia,Sorento,sedanas,2014,mechanine,111,195157,59167,80886,2019-07-29,86,3,7
+Toyota,Paseo,sedanas,1996,mechanine,111,43888,98840,88363,2018-09-16,11,3,3
+Oldsmobile,88,sedanas,1992,mechanine,139,146471,55436,32961,2018-10-13,71,2,5
+Ford,Escort,hecbekas,1999,mechanine,81,55707,10373,30105,2018-07-16,97,2,10
+Chevrolet,Astro Passenger,sedanas,2003,automatine,104,225407,98603,27664,2020-01-14,98,1,11
+Chevrolet,1500 Regular Cab,kabrioletas,1998,automatine,104,347015,31983,16139,2020-01-08,83,1,10
+Mercury,Sable,hecbekas,2000,automatine,139,170221,54108,83210,2019-06-10,4,2,6
+Chevrolet,Lumina,SUV,1992,mechanine,80,93692,33020,85039,2018-04-10,24,2,3
+Jeep,Wrangler,SUV,2009,mechanine,112,320354,40094,44307,2018-11-06,77,2,5
+Buick,Park Avenue,sedanas,1998,automatine,104,355560,64508,24144,2018-11-25,48,2,12
+Chevrolet,Silverado 3500 Regular Cab,SUV,2006,mechanine,139,392184,24893,47091,2019-01-09,83,3,11
+Jeep,Grand Cherokee,universalas,2012,automatine,81,50516,44813,66831,2019-04-12,15,3,5
+Mercedes-Benz,Mercedes-AMG E-Class,kabrioletas,2018,automatine,81,284472,79660,27488,2019-01-07,28,1,8
+Chevrolet,Silverado 3500 HD Regular Cab,SUV,2008,mechanine,106,132687,80414,28533,2019-11-28,61,1,4
+Mercedes-Benz,CL-Class,hecbekas,2007,automatine,139,309819,70710,87613,2020-01-16,70,4,7
+Aston Martin,Vanquish S,hecbekas,2006,automatine,91,147562,77570,38111,2018-09-10,55,1,4
+GMC,Sierra 1500 Crew Cab,universalas,2013,automatine,117,82044,59798,25074,2018-08-06,38,4,8
+Maserati,Quattroporte,kabrioletas,2012,automatine,116,15819,19709,88997,2018-03-22,3,2,11
+Dodge,Caravan Cargo,kabrioletas,2005,mechanine,80,162273,63947,13356,2018-01-15,87,3,9
+Dodge,Stratus,SUV,2002,mechanine,128,286292,67196,58565,2019-03-24,76,4,3
+Toyota,Corolla,universalas,2008,automatine,117,324474,63463,24567,2019-02-12,45,1,14
+Chevrolet,Blazer,sedanas,2019,mechanine,106,312928,92937,86574,2019-10-21,57,4,10
+Chevrolet,Captiva Sport,sedanas,2015,automatine,139,10485,12359,58702,2019-08-18,24,4,12
+Kia,Sportage,kabrioletas,1999,automatine,116,150076,46433,93400,2018-09-25,89,4,15
+Mercedes-Benz,M-Class,sedanas,2012,automatine,106,268551,45696,52135,2018-04-16,70,2,10
+Land Rover,LR3,SUV,2008,automatine,104,235089,10453,22260,2018-03-04,68,3,4
+Ford,Escape,hecbekas,2013,mechanine,104,397344,88162,41067,2018-02-08,100,2,12
+Aston Martin,Vanquish S,hecbekas,2005,automatine,91,28227,20625,41472,2019-02-06,38,3,7
+Toyota,Camry,universalas,2018,automatine,81,336332,28418,31712,2019-11-08,31,4,4
+GMC,Safari Passenger,SUV,1995,mechanine,146,93168,83527,49530,2018-11-28,51,4,10
+Volvo,C70,SUV,2013,automatine,128,301049,62836,35229,2018-05-03,23,1,11
+Mercedes-Benz,C-Class,hecbekas,2010,automatine,127,277268,77319,12770,2018-09-24,40,3,9
+GMC,Savana 3500 Cargo,kabrioletas,1999,automatine,91,90430,64698,43307,2019-05-19,37,1,15
+Dodge,Intrepid,SUV,1994,automatine,81,51666,12600,26036,2019-01-06,15,4,9
+Isuzu,i-350 Crew Cab,SUV,2006,mechanine,146,21835,76679,45248,2018-03-29,6,1,4
+Hyundai,Accent,sedanas,2010,automatine,106,322374,84144,43977,2019-08-31,71,2,11
+Kia,Rio,kabrioletas,2004,mechanine,116,396745,31717,21173,2019-07-25,96,2,3
+Ford,Taurus,universalas,2000,mechanine,80,116588,96661,55769,2019-07-03,97,1,12
+BMW,X3,universalas,2013,automatine,117,160965,72396,86433,2018-09-08,65,2,11
+MAZDA,MAZDA3,SUV,2019,automatine,139,300243,75346,23444,2019-08-29,89,3,9
+Rolls-Royce,Ghost,sedanas,2017,automatine,116,12554,52099,52792,2020-01-10,11,2,12
+Mitsubishi,Endeavor,SUV,2007,automatine,127,290769,13016,31172,2019-03-21,47,2,14
+Ford,F250 Crew Cab,universalas,1996,mechanine,111,217898,50385,59494,2018-05-24,91,3,14
+Toyota,Paseo,hecbekas,1993,automatine,139,316973,88896,28220,2018-04-27,62,3,6
+Saturn,S-Series,hecbekas,1993,automatine,146,18896,97529,40724,2018-01-31,62,1,6
+Saturn,VUE,hecbekas,2002,mechanine,104,369556,35283,88839,2019-11-08,32,2,8
+Mercedes-Benz,E-Class,sedanas,1998,mechanine,146,79263,49466,41755,2019-06-02,37,1,14
+Ferrari,488 Spider,kabrioletas,2018,automatine,117,337891,28172,78628,2018-10-23,47,2,7
+Lexus,RC,universalas,2017,mechanine,127,229613,58240,92512,2019-08-15,93,2,1
+Nissan,Maxima,kabrioletas,1993,automatine,117,61182,96572,97564,2019-08-18,70,4,11

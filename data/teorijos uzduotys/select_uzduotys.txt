@@ -1,0 +1,30 @@
+1. Kurių aktorių vardas yra 'Scarlett'?
+2. Kurių aktorių pavardė yra 'Johansson'?
+3. Kiek yra skirtingų aktorių pavardžių?
+4. Kurios aktorių pavardės yra nepasikartojančios?
+5. Kurios aktorių pavardės yra pasikartojančios po 2 kartus?
+6. Kurie aktoriai suvaidino daugiausiai filmų? 
+7. Ar galima pirmoje parduotuvėje išsinuomoti Store 1?
+8. Kokia vidutinė filmų trukmė? 
+9. Kokia vidutinė filmų trukmė kiekvienoje kategorijoje?
+10. Įdėkite eilutę, kur šiandien Mary Smith išsinuomojo 'Academy Dinosaur' filmą is Mike Hillyer pirmoje parduotuvėje (Store 1).
+
+
+Papildomos užduotys
+1. Atraskite klientų adresus, kur gatvės pavadinimas turi substringą 'WAY'
+2. Atraskite adresą, kurio namo numeris yra didžiausias.
+3. Kuris filmas turi daugiausiai inventoriaus? 
+4. Iš kurios šalies yra daugiausiai klientų? 
+5. Atraskite klientus, kurių vardo antra raidė yra 'W' arba 'A'. 
+6. Atraskite, kuris filmas surinko daugiausiai pinigų. 
+7. Atraskite, kurią dieną buvo daugiausiai surinkta pinigų.
+8. Atraskite, kiek vidutiniškai surenka pinigų per savaitę. 
+9. Atraskite, kurią savaitės dieną vidutiniškai surenka daugiausiai pinigų. 
+10. Koks vidutinis filmo pavadinimo ir filmo aprašymo ilgis? 
+11. Kurio žanro filmų pavadinimai ilgiausias? 
+12. Kurio žanro filmų aprašymai trumpiausi? 
+13. Kiek yra filmų yra kiekvienoje kategorijoje? 
+14. Kiek inventoriausi turi kiekviena parduotuvė? 
+15. Kokius du filmus rekomenduotumėte draugui ir kodėl? 
+16. Kurie filmai yra pirmoje parduotuvėje, bet nėra antroje parduotuvėje? 
+17. Kurie filmai populiariausi kiekvienoje parduotuvėje? 
