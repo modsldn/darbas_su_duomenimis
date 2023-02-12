@@ -1,0 +1,101 @@
+,delivery_id,delivery_type,city,delivery_status,delivery_status_datetime
+0,1,Parcel terminal,Akmenė,Out for delivery,2022-04-23 11:32:12
+1,2,Courier,Kelmė,In transit,2021-05-27 01:45:22
+2,3,Self delivery,Vilnius,In transit,2022-04-02 06:26:49
+3,4,Courier,Pagėgiai,Out for delivery,2022-10-17 22:18:38
+4,5,Self delivery,Nemėžis,Info received,2022-04-26 11:05:43
+5,6,Self delivery,Taurai,In transit,2022-08-02 09:57:43
+6,7,Parcel terminal,Telšiai,Inbound,2021-09-20 22:38:14
+7,8,Parcel terminal,Marijampolė,Inbound,2022-07-02 21:58:05
+8,9,Parcel terminal,Utena,Shipment departed from the facility,2022-06-11 11:25:38
+9,10,Courier,Grigiškės,In transit,2022-11-05 06:03:30
+10,11,Courier,Alytus,Shipment departed from the facility,2021-03-12 11:33:40
+11,12,Self delivery,Pilviškiai,In transit,2022-11-17 22:25:11
+12,13,Parcel terminal,Baltoji Vokė,Out for delivery,2021-11-04 01:23:19
+13,14,Self delivery,Joniškėlis,Shipment departed from the facility,2022-03-06 12:41:10
+14,15,Courier,Pagėgiai,Out for delivery,2021-08-28 21:23:02
+15,16,Courier,Baltoji Vokė,Info received,2022-10-17 08:50:14
+16,17,Courier,Ringaudai,Shipment departed from the facility,2022-07-05 23:59:22
+17,18,Self delivery,Galgiai,Shipment departed from the facility,2021-04-09 12:56:39
+18,19,Parcel terminal,Šilalė,Inbound,2022-10-03 21:16:05
+19,20,Self delivery,Venta,In transit,2021-09-19 16:26:27
+20,21,Parcel terminal,Žagarė,Info received,2022-09-01 06:34:02
+21,22,Courier,Drąsučiai,In transit,2021-05-27 08:49:33
+22,23,Self delivery,Viekšniai,Out for delivery,2021-03-19 23:55:38
+23,24,Courier,Žiežmariai,Info received,2021-04-22 11:00:53
+24,25,Courier,Karmėlava II,In transit,2021-01-26 18:18:31
+25,26,Courier,Visaginas,In transit,2021-08-16 03:21:39
+26,27,Self delivery,Josvainiai,Delivered,2022-03-03 14:33:54
+27,28,Self delivery,Plateliai,Out for delivery,2022-11-03 19:44:24
+28,29,Parcel terminal,Žagarė,Out for delivery,2021-12-13 06:16:11
+29,30,Parcel terminal,Alytus,In transit,2022-03-15 14:42:10
+30,31,Courier,Druskininkai,Out for delivery,2021-07-16 00:00:41
+31,32,Self delivery,Šalčininkai,Inbound,2022-07-16 12:21:47
+32,33,Self delivery,Žagarė,Shipment departed from the facility,2022-11-20 02:26:47
+33,34,Parcel terminal,Kazlų Rūda,Info received,2022-04-04 09:54:33
+34,35,Parcel terminal,Varėna,Shipment departed from the facility,2022-04-05 16:11:32
+35,36,Parcel terminal,Ramučiai,Shipment departed from the facility,2021-04-28 13:17:07
+36,37,Parcel terminal,Didžioji Reišė,Info received,2021-05-23 15:12:36
+37,38,Parcel terminal,Pagiriai,Delivered,2021-07-23 07:53:07
+38,39,Self delivery,Kulautuva,Out for delivery,2022-08-12 14:08:31
+39,40,Self delivery,Švenčionėliai,Out for delivery,2022-06-20 17:01:39
+40,41,Parcel terminal,Kaunas,In transit,2022-05-11 15:30:12
+41,42,Parcel terminal,Pagėgiai,Inbound,2022-04-21 16:53:58
+42,43,Parcel terminal,Pagėgiai,In transit,2022-02-04 23:34:27
+43,44,Courier,Tauragė,Shipment departed from the facility,2021-06-20 09:13:16
+44,45,Parcel terminal,Prienai,Out for delivery,2022-08-11 15:09:16
+45,46,Courier,Rokiškis,Info received,2022-07-24 21:27:38
+46,47,Courier,Kėdainiai,Inbound,2022-01-09 05:07:35
+47,48,Parcel terminal,Gineitiškės,Out for delivery,2021-02-01 19:34:20
+48,49,Self delivery,Pagiriai,Out for delivery,2021-02-24 03:49:50
+49,50,Courier,Karmėlava II,In transit,2021-01-20 23:25:25
+50,51,Self delivery,Nemėžis,Info received,2021-03-30 15:10:07
+51,52,Parcel terminal,Drąsučiai,In transit,2022-01-19 00:20:39
+52,53,Parcel terminal,Galgiai,Shipment departed from the facility,2021-04-27 13:51:57
+53,54,Parcel terminal,Prienai,In transit,2021-03-13 13:01:40
+54,55,Courier,Skaudvilė,Inbound,2021-12-31 20:00:13
+55,56,Self delivery,Pilviškiai,Out for delivery,2021-05-26 09:50:04
+56,57,Parcel terminal,Šiauliai,In transit,2022-01-13 19:23:53
+57,58,Courier,Kaišiadorys,In transit,2021-03-01 09:36:00
+58,59,Parcel terminal,Šilalė,Inbound,2021-02-22 09:28:57
+59,60,Self delivery,Joniškis,Out for delivery,2021-10-01 00:29:02
+60,61,Parcel terminal,Rudamina,Delivered,2022-05-26 19:22:39
+61,62,Courier,Grigiškės,Out for delivery,2022-11-09 13:22:56
+62,63,Courier,Skuodas,Delivered,2021-09-12 19:18:21
+63,64,Self delivery,Pervalka,Shipment departed from the facility,2022-02-03 11:37:17
+64,65,Parcel terminal,Didžioji Reišė,Delivered,2022-01-30 01:41:08
+65,66,Parcel terminal,Radviliškis,Shipment departed from the facility,2021-10-23 09:17:12
+66,67,Self delivery,Babtai,Shipment departed from the facility,2022-11-14 16:15:21
+67,68,Courier,Kėdainiai,In transit,2021-07-20 14:52:53
+68,69,Courier,Varniai,Inbound,2022-11-27 08:32:40
+69,70,Courier,Grigiškės,Info received,2021-12-15 11:21:45
+70,71,Self delivery,Baisogala,Shipment departed from the facility,2021-06-20 23:23:04
+71,72,Courier,Šiauliai,In transit,2022-12-15 18:38:24
+72,73,Parcel terminal,Skuodas,In transit,2021-03-21 03:12:27
+73,74,Courier,Ylakiai,Delivered,2022-02-18 04:02:54
+74,75,Parcel terminal,Alytus,In transit,2021-08-30 03:54:56
+75,76,Self delivery,Simnas,In transit,2022-08-24 22:26:20
+76,77,Self delivery,Pilviškiai,Out for delivery,2022-04-05 09:38:03
+77,78,Courier,Vidiškės,Info received,2022-06-07 16:52:05
+78,79,Courier,Pakruojis,Delivered,2022-08-01 12:20:02
+79,80,Parcel terminal,Krekenava,Info received,2021-05-07 18:43:04
+80,81,Parcel terminal,Simnas,Info received,2021-09-16 20:12:49
+81,82,Parcel terminal,Ylakiai,Delivered,2022-06-18 23:36:06
+82,83,Courier,Rokiškis,Delivered,2022-11-17 07:57:10
+83,84,Parcel terminal,Skaidiškės,Out for delivery,2021-05-03 22:23:46
+84,85,Courier,Kupiškis,Out for delivery,2021-06-18 18:22:11
+85,86,Self delivery,Jonava,Inbound,2022-10-08 23:14:17
+86,87,Courier,Dovilai,Inbound,2021-10-31 16:05:47
+87,88,Parcel terminal,Ukmergė,In transit,2022-07-26 05:17:15
+88,89,Self delivery,Baisogala,Out for delivery,2021-05-28 12:26:00
+89,90,Courier,Biržai,Out for delivery,2022-10-17 01:35:22
+90,91,Self delivery,Grigiškės,Out for delivery,2021-11-13 10:56:18
+91,92,Self delivery,Naujoji Akmenė,Inbound,2022-07-09 15:36:21
+92,93,Self delivery,Palanga,Info received,2022-12-31 00:32:31
+93,94,Courier,Trakai,In transit,2022-08-17 14:26:12
+94,95,Courier,Kulautuva,Inbound,2022-08-13 19:20:58
+95,96,Courier,Ignalina,Shipment departed from the facility,2021-07-03 16:44:54
+96,97,Parcel terminal,Mažeikiai,In transit,2021-05-15 19:07:31
+97,98,Courier,Avižieniai,In transit,2022-11-17 22:24:38
+98,99,Self delivery,Plungė,Inbound,2022-12-30 01:34:37
+99,100,Courier,Joniškis,Out for delivery,2022-09-03 08:44:27

@@ -1,0 +1,101 @@
+,customer_id,created_date,first_name,last_name,email,address,latitude,longitude,city,state,country,customer_type,gender,age
+0,1,2022-03-30 15:25:18,Nojus,Benas,Nojus.Benas@email.lt,"Ramybės, 93 - 94, Anykščiai, Anykščiai, Lietuva",55.5344,25.1072,Anykščiai,Anykščiai,Lietuva,person,boy,43
+1,2,2022-12-12 13:19:03,Emilija,Gabija,Emilija.Gabija@email.lt,"Spandotų, 94 - 99, Kretinga, Kretinga, Lietuva",55.8758,21.2508,Kretinga,Kretinga,Lietuva,person,girl,74
+2,3,2022-12-14 01:17:13,Amelia,Amelia,Amelia.Amelia@email.lt,"Plomėnų, 9 - 75, Ukmergė, Ukmergė, Lietuva",55.2667,24.75,Ukmergė,Ukmergė,Lietuva,person,girl,62
+3,4,2022-01-06 05:26:45,Austėja,Viltė,Austėja.Viltė@email.lt,"Gėlių 1-asis, 5 - 23, Drąsučiai, Šiauliai, Lietuva",56.033,22.981,Drąsučiai,Šiauliai,Lietuva,person,girl,25
+4,5,2022-04-24 17:19:04,Nojus,Benas,Nojus.Benas@email.lt,"Sausoji, 37 - 14, Domeikava, Kaunas, Lietuva",54.9667,23.9167,Domeikava,Kaunas,Lietuva,person,boy,30
+5,6,2021-07-28 11:05:22,Amelia,Lėja,Amelia.Lėja@email.lt,"Kryžiokų Sodų 3-ioji, 43 - 5, Ukmergė, Ukmergė, Lietuva",55.2667,24.75,Ukmergė,Ukmergė,Lietuva,person,girl,67
+6,7,2022-03-23 14:46:21,Austėja,Ema,Austėja.Ema@email.lt,"Užuovėjos Sodų 1-oji, 76 - 53, Švenčionėliai, Švenčionys, Lietuva",55.1667,26.0,Švenčionėliai,Švenčionys,Lietuva,person,girl,29
+7,8,2021-11-01 13:51:14,Nojus,Domas,Nojus.Domas@email.lt,"Elnio, 90 - 66, Matuizos, Varėna, Lietuva",54.2833,24.6833,Matuizos,Varėna,Lietuva,person,boy,84
+8,9,2021-08-08 08:50:35,Aronas,Aronas,Aronas.Aronas@email.lt,"Mileišiškių Sodų 11-oji, 5 - 30, Šalčininkai, Šalčininkai, Lietuva",54.3111,25.3806,Šalčininkai,Šalčininkai,Lietuva,person,boy,18
+9,10,2021-03-18 07:59:27,Gabrielė,Ema,Gabrielė.Ema@email.lt,"Gaidūnų, 27 - 56, Tauragė, Tauragė, Lietuva",55.2514,22.2903,Tauragė,Tauragė,Lietuva,person,girl,72
+10,11,2022-11-07 03:39:51,Kajus,Domas,Kajus.Domas@email.lt,"A. Kulviečio, 7 - 22, Pagiriai, Vilnius, Lietuva",54.5789,25.1983,Pagiriai,Vilnius,Lietuva,person,boy,38
+11,12,2022-08-29 00:22:05,Daniel,Kajus,Daniel.Kajus@email.lt,"Ramonų, 7 - 53, Ariogala, Raseiniai, Lietuva",55.2639,23.4694,Ariogala,Raseiniai,Lietuva,person,boy,71
+12,13,2022-10-08 16:42:35,Lukas,Matas,Lukas.Matas@email.lt,"Iždo, 69 - 52, Druskininkai, Druskininkai, Lietuva",54.0206,23.9725,Druskininkai,Druskininkai,Lietuva,person,boy,92
+13,14,2022-02-14 22:32:46,Danielius,Dominykas,Danielius.Dominykas@email.lt,"Neknupio, 55 - 66, Domeikava, Kaunas, Lietuva",54.9667,23.9167,Domeikava,Kaunas,Lietuva,person,boy,67
+14,15,2021-05-06 12:03:05,Aronas,Domas,Aronas.Domas@email.lt,"Krimslės, 100 - 63, Dovilai, Klaipėda, Lietuva",55.6778,21.3556,Dovilai,Klaipėda,Lietuva,person,boy,58
+15,16,2021-08-24 19:22:38,Milana,Kamilė,Milana.Kamilė@email.lt,"Čartoriskių, 7 - 15, Šilalė, Šilalė, Lietuva",55.4917,22.1778,Šilalė,Šilalė,Lietuva,person,girl,49
+16,17,2022-02-04 22:00:45,Kamilė,Lėja,Kamilė.Lėja@email.lt,"Vakaro 11-oji, 9 - 50, Švėkšna, Šilutė, Lietuva",55.5167,21.6278,Švėkšna,Šilutė,Lietuva,person,girl,34
+17,18,2022-04-29 02:54:28,Viltė,Austėja,Viltė.Austėja@email.lt,"Baldininkų 6-asis, 46 - 40, Didžioji Reišė, Vilniaus Apskritis, Lietuva",54.8028,25.2639,Didžioji Reišė,Vilniaus Apskritis,Lietuva,person,girl,55
+18,19,2021-04-11 19:35:01,Lukas,Lukas,Lukas.Lukas@email.lt,"Smiltelės 3-ioji, 56 - 24, Galgiai, Vilnius, Lietuva",54.725,25.412,Galgiai,Vilnius,Lietuva,person,boy,49
+19,20,2021-03-02 09:46:19,Domas,Kajus,Domas.Kajus@email.lt,"Linkūnų, 83 - 48, Karmėlava II, Kaunas, Lietuva",54.975,24.075,Karmėlava II,Kaunas,Lietuva,person,boy,57
+20,21,2022-04-19 09:10:59,Gabija,Kamilė,Gabija.Kamilė@email.lt,"Berželio Sodų 2-oji, 87 - 40, Kairiai, Šiauliai, Lietuva",55.9167,23.4389,Kairiai,Šiauliai,Lietuva,person,girl,53
+21,22,2021-03-17 09:30:51,Austėja,Kamilė,Austėja.Kamilė@email.lt,"Bausko, 8 - 36, Teleičiai, Kaunas, Lietuva",54.844,23.883,Teleičiai,Kaunas,Lietuva,person,girl,26
+22,23,2021-07-28 20:38:51,Danielius,Nojus,Danielius.Nojus@email.lt,"Narvydiškio, 28 - 87, Gineitiškės, Vilnius, Lietuva",54.739,25.2,Gineitiškės,Vilnius,Lietuva,person,boy,61
+23,24,2021-08-30 09:51:39,Emilija,Kamilė,Emilija.Kamilė@email.lt,"Kemetiškių, 74 - 96, Rokiškis, Rokiškis, Lietuva",55.9616,25.5807,Rokiškis,Rokiškis,Lietuva,person,girl,51
+24,25,2021-11-26 22:01:19,Viltė,Kamilė,Viltė.Kamilė@email.lt,"Davainiškio, 56 - 85, Vidiškės, Ignalina, Lietuva",55.375,26.2111,Vidiškės,Ignalina,Lietuva,person,girl,91
+25,26,2022-04-17 19:40:25,Emilija,Gabrielė,Emilija.Gabrielė@email.lt,"Griškabūdžio, 48 - 99, Josvainiai, Kėdainiai, Lietuva",55.25,23.8333,Josvainiai,Kėdainiai,Lietuva,person,girl,48
+26,27,2021-04-01 10:28:00,Domas,Aronas,Domas.Aronas@email.lt,"I. Masalskio, 73 - 76, Padvariai, Kretinga, Lietuva",55.9083,21.2833,Padvariai,Kretinga,Lietuva,person,boy,90
+27,28,2021-02-06 23:58:14,Amelia,Viltė,Amelia.Viltė@email.lt,"Dainavos 13-oji, 83 - 47, Josvainiai, Kėdainiai, Lietuva",55.25,23.8333,Josvainiai,Kėdainiai,Lietuva,person,girl,50
+28,29,2022-10-03 20:43:23,Austėja,Emilija,Austėja.Emilija@email.lt,"Gijos 15-oji, 54 - 93, Šakiai, Šakiai, Lietuva",54.9556,23.0444,Šakiai,Šakiai,Lietuva,person,girl,20
+29,30,2021-09-27 03:27:25,Viltė,Milana,Viltė.Milana@email.lt,"Jonėnų, 41 - 35, Pabradė, Švenčionys, Lietuva",54.9806,25.7667,Pabradė,Švenčionys,Lietuva,person,girl,24
+30,31,2022-06-10 14:09:28,Gabrielė,Austėja,Gabrielė.Austėja@email.lt,"A. Paškevič-Ciotkos, 57 - 59, Plateliai, Plungė, Lietuva",56.05,21.8167,Plateliai,Plungė,Lietuva,person,girl,21
+31,32,2022-12-30 12:06:02,Matas,Danielius,Matas.Danielius@email.lt,"Paringio, 87 - 80, Rudamina, Vilnius, Lietuva",54.5972,25.35,Rudamina,Vilnius,Lietuva,person,boy,21
+32,33,2021-08-01 16:55:01,Emilija,Ema,Emilija.Ema@email.lt,"Ivaniškių Sodų 3-ioji, 97 - 66, Miklusėnai, Alytus, Lietuva",54.4417,23.9972,Miklusėnai,Alytus,Lietuva,person,girl,84
+33,34,2022-02-22 19:23:18,Ema,Emilija,Ema.Emilija@email.lt,"Tyrų Pelkės, 99 - 48, Pagiriai, Vilnius, Lietuva",54.5789,25.1983,Pagiriai,Vilnius,Lietuva,person,girl,56
+34,35,2021-12-29 17:30:04,Kajus,Kajus,Kajus.Kajus@email.lt,"Peršėkės, 51 - 84, Ylakiai, Skuodas, Lietuva",56.278,21.8566,Ylakiai,Skuodas,Lietuva,person,boy,79
+35,36,2022-05-27 15:46:45,Danielius,Domas,Danielius.Domas@email.lt,"Dubių, 29 - 96, Varėna, Varėna, Lietuva",54.2111,24.5722,Varėna,Varėna,Lietuva,person,boy,30
+36,37,2022-08-24 16:11:35,Aronas,Lukas,Aronas.Lukas@email.lt,"Vingrių, 32 - 87, Jonava, Jonava, Lietuva",55.0722,24.2806,Jonava,Jonava,Lietuva,person,boy,25
+37,38,2022-02-08 04:00:09,Ema,Milana,Ema.Milana@email.lt,"Vydautiškių, 13 - 36, Švenčionėliai, Švenčionys, Lietuva",55.1667,26.0,Švenčionėliai,Švenčionys,Lietuva,person,girl,97
+38,39,2022-02-19 16:03:08,Kamilė,Ema,Kamilė.Ema@email.lt,"Gvazdikų Sodų 1-oji, 26 - 4, Švenčionys, Švenčionys, Lietuva",55.1333,26.1556,Švenčionys,Švenčionys,Lietuva,person,girl,24
+39,40,2022-06-24 14:59:17,Benas,Nojus,Benas.Nojus@email.lt,"Metalistų, 63 - 90, Utena, Utena, Lietuva",55.5,25.6028,Utena,Utena,Lietuva,person,boy,75
+40,41,2023-01-01 14:30:13,Kamilė,Gabija,Kamilė.Gabija@email.lt,"Pasnietalio, 1 - 20, Nida, Neringa, Lietuva",55.304,21.0053,Nida,Neringa,Lietuva,person,girl,46
+41,42,2022-05-08 02:11:07,Kajus,Matas,Kajus.Matas@email.lt,"Juodelių, 19 - 34, Babtai, Kaunas, Lietuva",55.0917,23.7944,Babtai,Kaunas,Lietuva,person,boy,98
+42,43,2021-09-09 13:47:23,Benas,Dominykas,Benas.Dominykas@email.lt,"Paslaugos 1-oji, 11 - 66, Naujoji Akmenė, Akmenė, Lietuva",56.325,22.8833,Naujoji Akmenė,Akmenė,Lietuva,person,boy,31
+43,44,2021-01-17 17:36:34,Kajus,Domas,Kajus.Domas@email.lt,"Lelijos Sodų 10-oji, 59 - 60, Viduklė, Raseiniai, Lietuva",55.4028,22.8972,Viduklė,Raseiniai,Lietuva,person,boy,21
+44,45,2021-07-03 23:39:28,Dominykas,Matas,Dominykas.Matas@email.lt,"Žydrynės, 83 - 99, Mažeikiai, Mažeikiai, Lietuva",56.3111,22.3361,Mažeikiai,Mažeikiai,Lietuva,person,boy,18
+45,46,2021-08-03 18:22:10,Gabrielė,Gabrielė,Gabrielė.Gabrielė@email.lt,"Barškių, 98 - 44, Kalvarija, Kalvarijos, Lietuva",54.4147,23.2281,Kalvarija,Kalvarijos,Lietuva,person,girl,62
+46,47,2022-07-18 21:57:36,Nojus,Matas,Nojus.Matas@email.lt,"Tamšos, 93 - 4, Skaidiškės, Vilnius, Lietuva",54.6081,25.3861,Skaidiškės,Vilnius,Lietuva,person,boy,65
+47,48,2022-04-19 21:48:08,Aronas,Kajus,Aronas.Kajus@email.lt,"Šukės, 49 - 82, Galgiai, Vilnius, Lietuva",54.725,25.412,Galgiai,Vilnius,Lietuva,person,boy,70
+48,49,2022-10-26 12:42:54,Nojus,Benas,Nojus.Benas@email.lt,"Antano Petro Kavolėlio, 98 - 25, Šalčininkai, Šalčininkai, Lietuva",54.3111,25.3806,Šalčininkai,Šalčininkai,Lietuva,person,boy,28
+49,50,2021-06-18 12:54:23,Austėja,Viltė,Austėja.Viltė@email.lt,"Surinkimų, 23 - 96, Trakai, Trakai, Lietuva",54.6333,24.9333,Trakai,Trakai,Lietuva,person,girl,21
+50,51,2022-05-26 12:41:23,Lėja,Viltė,Lėja.Viltė@email.lt,"Grikštaičių, 60 - 61, Plateliai, Plungė, Lietuva",56.05,21.8167,Plateliai,Plungė,Lietuva,person,girl,37
+51,52,2021-11-23 08:01:50,Lukas,Danielius,Lukas.Danielius@email.lt,"Serbentynės, 21 - 31, Venta, Akmenė, Lietuva",56.1944,22.7,Venta,Akmenė,Lietuva,person,boy,80
+52,53,2022-11-06 17:02:47,Daniel,Daniel,Daniel.Daniel@email.lt,"Varpinės, 39 - 46, Joniškėlis, Pasvalys, Lietuva",56.025,24.1694,Joniškėlis,Pasvalys,Lietuva,person,boy,81
+53,54,2022-09-22 09:33:59,Dominykas,Matas,Dominykas.Matas@email.lt,"Krioklio, 37 - 34, Venta, Akmenė, Lietuva",56.1944,22.7,Venta,Akmenė,Lietuva,person,boy,26
+54,55,2021-11-20 19:29:30,Lukas,Matas,Lukas.Matas@email.lt,"Armonos 16-oji, 39 - 47, Teleičiai, Kaunas, Lietuva",54.844,23.883,Teleičiai,Kaunas,Lietuva,person,boy,65
+55,56,2022-05-08 07:58:35,Danielius,Benas,Danielius.Benas@email.lt,"Ažubrasčio, 81 - 4, Veiveriai, Prienai, Lietuva",54.7639,23.725,Veiveriai,Prienai,Lietuva,person,boy,81
+56,57,2021-08-07 09:22:01,Viltė,Kamilė,Viltė.Kamilė@email.lt,"Gilių 2-asis, 97 - 54, Ylakiai, Skuodas, Lietuva",56.278,21.8566,Ylakiai,Skuodas,Lietuva,person,girl,96
+57,58,2021-08-01 11:27:26,Austėja,Gabija,Austėja.Gabija@email.lt,"Subotnikų, 84 - 69, Baltoji Vokė, Šalčininkai, Lietuva",54.45,25.1333,Baltoji Vokė,Šalčininkai,Lietuva,person,girl,44
+58,59,2022-12-29 12:10:48,Kajus,Danielius,Kajus.Danielius@email.lt,"Skirlėnų, 67 - 84, Žagarė, Joniškis, Lietuva",56.3583,23.25,Žagarė,Joniškis,Lietuva,person,boy,74
+59,60,2022-07-07 05:45:09,Gabrielė,Emilija,Gabrielė.Emilija@email.lt,"Aukštaitijos, 40 - 78, Palanga, Palangos Miestas, Lietuva",55.9167,21.0639,Palanga,Palangos Miestas,Lietuva,person,girl,43
+60,61,2022-02-24 07:50:01,Lėja,Ema,Lėja.Ema@email.lt,"Audros, 35 - 55, Šilutė, Šilutė, Lietuva",55.35,21.4833,Šilutė,Šilutė,Lietuva,person,girl,65
+61,62,2021-03-04 18:50:39,Nojus,Nojus,Nojus.Nojus@email.lt,"Grūdos, 8 - 49, Domeikava, Kaunas, Lietuva",54.9667,23.9167,Domeikava,Kaunas,Lietuva,person,boy,47
+62,63,2021-01-24 09:49:44,Gabija,Amelia,Gabija.Amelia@email.lt,"Vėjukų, 41 - 75, Linkuva, Pakruojis, Lietuva",56.0889,23.9722,Linkuva,Pakruojis,Lietuva,person,girl,45
+63,64,2021-11-26 05:34:24,Emilija,Gabrielė,Emilija.Gabrielė@email.lt,"Spindulių 3-ioji, 55 - 37, Prienai, Prienai, Lietuva",54.6333,23.9417,Prienai,Prienai,Lietuva,person,girl,67
+64,65,2022-02-03 01:45:00,Matas,Lukas,Matas.Lukas@email.lt,"Barvoniškių, 2 - 97, Visaginas, Visaginas, Lietuva",55.6,26.4333,Visaginas,Visaginas,Lietuva,person,boy,65
+65,66,2022-03-18 10:04:37,Matas,Benas,Matas.Benas@email.lt,"Putino Sodų 13-oji, 54 - 18, Nemėžis, Vilnius, Lietuva",54.6361,25.3611,Nemėžis,Vilnius,Lietuva,person,boy,67
+66,67,2022-07-05 15:47:46,Ema,Ema,Ema.Ema@email.lt,"Gyrio, 3 - 63, Švenčionys, Švenčionys, Lietuva",55.1333,26.1556,Švenčionys,Švenčionys,Lietuva,person,girl,38
+67,68,2022-08-10 21:10:12,Domas,Danielius,Domas.Danielius@email.lt,"Knygnešio, 38 - 61, Panevėžys, Panevėžio Miestas, Lietuva",55.725,24.3639,Panevėžys,Panevėžio Miestas,Lietuva,person,boy,74
+68,69,2022-03-27 08:24:08,Daniel,Kajus,Daniel.Kajus@email.lt,"Griežupės, 4 - 79, Jonava, Jonava, Lietuva",55.0722,24.2806,Jonava,Jonava,Lietuva,person,boy,29
+69,70,2022-07-11 23:34:57,Ema,Viltė,Ema.Viltė@email.lt,"Stumbrio, 46 - 3, Domeikava, Kaunas, Lietuva",54.9667,23.9167,Domeikava,Kaunas,Lietuva,person,girl,59
+70,71,2021-04-11 22:50:26,Lukas,Kajus,Lukas.Kajus@email.lt,"Juozo Zdebskio, 88 - 39, Kaunas, Kauno Miestas, Lietuva",54.9,23.9333,Kaunas,Kauno Miestas,Lietuva,person,boy,96
+71,72,2021-06-13 10:39:12,Lėja,Milana,Lėja.Milana@email.lt,"Visdievų, 42 - 43, Žagarė, Joniškis, Lietuva",56.3583,23.25,Žagarė,Joniškis,Lietuva,person,girl,83
+72,73,2022-06-11 00:39:02,Domas,Benas,Domas.Benas@email.lt,"Vystučio, 83 - 77, Rukla, Jonava, Lietuva",55.0528,24.3778,Rukla,Jonava,Lietuva,person,boy,95
+73,74,2021-11-29 15:48:11,Matas,Nojus,Matas.Nojus@email.lt,"Šilo 3-oji, 52 - 47, Šilalė, Šilalė, Lietuva",55.4917,22.1778,Šilalė,Šilalė,Lietuva,person,boy,80
+74,75,2021-04-08 14:03:20,Benas,Benas,Benas.Benas@email.lt,"Kalnininkų, 80 - 38, Ukmergė, Ukmergė, Lietuva",55.2667,24.75,Ukmergė,Ukmergė,Lietuva,person,boy,92
+75,76,2021-12-25 23:22:35,Milana,Emilija,Milana.Emilija@email.lt,"Pušaitės 6-oji, 45 - 1, Viekšniai, Mažeikiai, Lietuva",56.2389,22.5139,Viekšniai,Mažeikiai,Lietuva,person,girl,67
+76,77,2021-05-13 07:22:45,Emilija,Amelia,Emilija.Amelia@email.lt,"Gurių Sodų 30-oji, 7 - 32, Šilalė, Šilalė, Lietuva",55.4917,22.1778,Šilalė,Šilalė,Lietuva,person,girl,63
+77,78,2022-10-19 01:22:46,Aronas,Dominykas,Aronas.Dominykas@email.lt,"Keturnaujienos, 100 - 52, Ramučiai, Kaunas, Lietuva",54.9472,24.0306,Ramučiai,Kaunas,Lietuva,person,boy,49
+78,79,2021-12-22 08:19:31,Kamilė,Viltė,Kamilė.Viltė@email.lt,"Bosų, 3 - 86, Matuizos, Varėna, Lietuva",54.2833,24.6833,Matuizos,Varėna,Lietuva,person,girl,36
+79,80,2021-11-19 03:58:26,Gabija,Gabija,Gabija.Gabija@email.lt,"Peleikių, 95 - 89, Ramygala, Panevėžys, Lietuva",55.5111,24.3028,Ramygala,Panevėžys,Lietuva,person,girl,77
+80,81,2022-07-12 23:25:14,Danielius,Domas,Danielius.Domas@email.lt,"Paakmenio, 67 - 1, Molėtai, Molėtai, Lietuva",55.2333,25.4167,Molėtai,Molėtai,Lietuva,person,boy,65
+81,82,2021-02-19 02:52:07,Nojus,Benas,Nojus.Benas@email.lt,"Žagarių, 19 - 66, Joniškėlis, Pasvalys, Lietuva",56.025,24.1694,Joniškėlis,Pasvalys,Lietuva,person,boy,66
+82,83,2022-11-24 08:52:55,Aronas,Lukas,Aronas.Lukas@email.lt,"M. K. Paco, 69 - 83, Molėtai, Molėtai, Lietuva",55.2333,25.4167,Molėtai,Molėtai,Lietuva,person,boy,59
+83,84,2022-06-24 07:31:36,Daniel,Aronas,Daniel.Aronas@email.lt,"Sūduonės, 67 - 85, Tauragė, Tauragė, Lietuva",55.2514,22.2903,Tauragė,Tauragė,Lietuva,person,boy,97
+84,85,2021-12-30 14:43:57,Lukas,Matas,Lukas.Matas@email.lt,"Talkos Sodų 1-oji, 32 - 30, Taurai, Tauragė, Lietuva",55.239,22.25,Taurai,Tauragė,Lietuva,person,boy,91
+85,86,2022-12-01 13:45:58,Nojus,Domas,Nojus.Domas@email.lt,"Užjūrio, 42 - 34, Nemėžis, Vilnius, Lietuva",54.6361,25.3611,Nemėžis,Vilnius,Lietuva,person,boy,39
+86,87,2022-01-25 08:48:50,Lukas,Dominykas,Lukas.Dominykas@email.lt,"Džiugo Sodų 6-oji, 87 - 86, Karmėlava II, Kaunas, Lietuva",54.975,24.075,Karmėlava II,Kaunas,Lietuva,person,boy,96
+87,88,2022-05-22 22:57:14,Amelia,Viltė,Amelia.Viltė@email.lt,"Verbiškių 10-oji, 80 - 97, Dembava, Panevėžys, Lietuva",55.731,24.406,Dembava,Panevėžys,Lietuva,person,girl,65
+88,89,2021-03-02 22:12:39,Lėja,Gabrielė,Lėja.Gabrielė@email.lt,"Gumbrės, 25 - 27, Ylakiai, Skuodas, Lietuva",56.278,21.8566,Ylakiai,Skuodas,Lietuva,person,girl,40
+89,90,2021-10-01 00:08:36,Benas,Kajus,Benas.Kajus@email.lt,"Also, 56 - 96, Ariogala, Raseiniai, Lietuva",55.2639,23.4694,Ariogala,Raseiniai,Lietuva,person,boy,60
+90,91,2022-04-08 16:38:32,Aronas,Dominykas,Aronas.Dominykas@email.lt,"Kučiūnų, 12 - 87, Visaginas, Visaginas, Lietuva",55.6,26.4333,Visaginas,Visaginas,Lietuva,person,boy,37
+91,92,2022-11-21 02:38:58,Domas,Danielius,Domas.Danielius@email.lt,"Agnytės, 82 - 44, Garliava, Kaunas, Lietuva",54.8167,23.8667,Garliava,Kaunas,Lietuva,person,boy,19
+92,93,2021-12-04 11:54:25,Emilija,Emilija,Emilija.Emilija@email.lt,"Simono Daukanto, 28 - 57, Avižieniai, Vilnius, Lietuva",54.7639,25.1831,Avižieniai,Vilnius,Lietuva,person,girl,41
+93,94,2021-08-06 15:36:54,Kamilė,Lėja,Kamilė.Lėja@email.lt,"Melisų, 87 - 66, Ukmergė, Ukmergė, Lietuva",55.2667,24.75,Ukmergė,Ukmergė,Lietuva,person,girl,36
+94,95,2022-03-05 15:24:47,Aronas,Danielius,Aronas.Danielius@email.lt,"Melioratorių 5-oji, 12 - 9, Ignalina, Ignalina, Lietuva",55.3406,26.1605,Ignalina,Ignalina,Lietuva,person,boy,19
+95,96,2022-05-31 14:43:46,Daniel,Lukas,Daniel.Lukas@email.lt,"Frydricho Šrėderio, 1 - 49, Tauragė, Tauragė, Lietuva",55.2514,22.2903,Tauragė,Tauragė,Lietuva,person,boy,92
+96,97,2022-08-24 23:46:43,Lėja,Emilija,Lėja.Emilija@email.lt,"Raudžio Kalno, 47 - 37, Molėtai, Molėtai, Lietuva",55.2333,25.4167,Molėtai,Molėtai,Lietuva,person,girl,71
+97,98,2021-05-13 05:00:19,Aronas,Nojus,Aronas.Nojus@email.lt,"Suktinių, 93 - 61, Širvintos, Širvintos, Lietuva",55.047,24.942,Širvintos,Širvintos,Lietuva,person,boy,27
+98,99,2021-01-24 17:27:33,Kajus,Domas,Kajus.Domas@email.lt,"Šarmos 1-oji, 75 - 56, Skaudvilė, Tauragė, Lietuva",55.4075,22.5825,Skaudvilė,Tauragė,Lietuva,person,boy,64
+99,100,2021-08-16 23:52:22,Amelia,Ema,Amelia.Ema@email.lt,"Vysk. A. Karoso, 52 - 47, Kairiai, Šiauliai, Lietuva",55.9167,23.4389,Kairiai,Šiauliai,Lietuva,person,girl,61
